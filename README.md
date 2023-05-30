@@ -1,7 +1,7 @@
 # ASP.NET-ve-CSharp--ile--Personel-Maaslari--Takip-Uygulamasi---Employee-Wages-Tracking-Application--
 ASP.NET ve C# kullanarak üzerinde çalıştığımız Personel Maaşları Takip Uygulaması (EWTA).
 
-USER GUIDE 
+USER GUIDE:
 Employee Wages Tracking Application (EWTA)
 Table of Contents:
 •	HOME
